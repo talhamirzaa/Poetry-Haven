@@ -12,7 +12,7 @@ export default function Land() {
         <h1 className='text-center'>Poetry</h1>
         
         <div className="input-group mt-auto d-flex justify-content-center">
-          <h4 className="text-center mb-2 mb-md-0 mx-3">News Letter Subscription</h4>
+          <h3 className="text-center mb-2 mb-md-0 mx-3">Subscribe to Our News Letter</h3>
           <input type="text" className="input-res rounded-pill" placeholder=" Lauren@gmail.com"/>
         <div className="input-group-append">
         &nbsp;&nbsp;<button type="button" className="btn btn-dark mt-2 mt-md-0 rounded-pill">Subscribe</button>
